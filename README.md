@@ -1,4 +1,4 @@
-# PlutoIW5_Scripts
+# PlutoIW5 Scripts
 [Plutonium](https://plutonium.pw) IW5 (MW3) Scripts
 
 ### How to use
