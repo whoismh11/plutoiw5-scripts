@@ -1,2 +1,2 @@
 # PlutoIW5 Killstreak
-Killstreak Counter (HUD)
+Killstreak Counter (HUD).
