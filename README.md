@@ -1,5 +1,5 @@
 # PlutoIW5 Scripts
-[Plutonium](https://plutonium.pw) IW5 (MW3) Scripts
+[Plutonium](https://plutonium.pw) IW5 (MW3) Scripts.
 
 ### How to use
 1. Navigate to the IW5 Plutonium Folder by pressing `Win+R` and pasting `%localappdata%\Plutonium\storage\iw5` into it, and hitting Ok.
