@@ -2,16 +2,16 @@
 
 init()
 {
-    level thread onPlayerConnect();
+	level thread onPlayerConnect();
 }
 
 onPlayerConnect()
 {
-    for(;;)
-    {
-        level waittill("connected", player);        
-        player thread killstreakPlayer();      
-    }
+	for(;;)
+	{
+		level waittill("connected", player);        
+		player thread killstreakPlayer();      
+	}
 }	
 
 killstreakPlayer ()
