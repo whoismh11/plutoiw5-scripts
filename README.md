@@ -10,3 +10,6 @@
 2. Create a new folder here called `scripts`.
 3. Put GSC files in there.
 4. Open MW3, and start a new Private Match or Dedicated Server, GSC script should load.
+
+### Contact / Contribution
+- [Discord](https://discord.gg/2JjvhAk)
