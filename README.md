@@ -1,5 +1,5 @@
 # PlutoIW5 Scripts
-[Plutonium](https://plutonium.pw) IW5 (MW3) scripts.
+[Plutonium](https://plutonium.pw) IW5 (MW3) scripts
 
 ## Contents
 - [Hardcore Fix](hardcore_fix)
